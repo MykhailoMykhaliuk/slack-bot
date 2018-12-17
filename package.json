@@ -1,0 +1,20 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Test slack bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "engines": {
+    "node": "10.x"
+  }
+}
